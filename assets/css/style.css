@@ -463,7 +463,7 @@ main {
 
 .social-link-1 ion-icon {
   font-size: 24px; /* Adjust icon size if needed */
-  color: #FFA500; /* Set icon color to orange (#FFA500) */
+  color: var(--orange-yellow-crayola); /* Set icon color to orange (#FFA500) */
 }
 
 
